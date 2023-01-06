@@ -1,8 +1,6 @@
-# Node Hello World
+# Node file hosted on AWS
 
-Simple node.js app that servers "hello world"
-
-Great for testing simple deployments to the cloud
+Simple node.js app that servers "Hello this is Hari from CSE A 4ni19cs045 welcome to Aws hosted  Nodejs app!"
 
 ## Run It
 
